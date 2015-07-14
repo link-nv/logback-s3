@@ -1,3 +1,5 @@
+**WARNING**: deprecated repo, please use *logback-s3-rolling-policy* (https://github.com/link-nv/logback-s3-rolling-policy)
+
 Logback RollingPolicy with S3 upload
 ==========
 
